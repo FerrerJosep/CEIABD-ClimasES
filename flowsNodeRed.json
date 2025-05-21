@@ -1,0 +1,1320 @@
+[
+    {
+        "id": "5358a61cd926ccce",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "79f451d9a881c4cf",
+        "type": "group",
+        "z": "5358a61cd926ccce",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "18fd7b5f87641cf1"
+        ],
+        "x": 48,
+        "y": 73,
+        "w": 1164,
+        "h": 254
+    },
+    {
+        "id": "d0abb2e8039c74a0",
+        "type": "group",
+        "z": "5358a61cd926ccce",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "1d519bb37d0b2076"
+        ],
+        "x": 48,
+        "y": 333,
+        "w": 1164,
+        "h": 254
+    },
+    {
+        "id": "25e36cc64c4b6c7c",
+        "type": "group",
+        "z": "5358a61cd926ccce",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3bf9a5573ce36be9"
+        ],
+        "x": 268,
+        "y": 693,
+        "w": 1064,
+        "h": 254
+    },
+    {
+        "id": "e0aa44a5b699dc4b",
+        "type": "group",
+        "z": "5358a61cd926ccce",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "be392191e17f74fb"
+        ],
+        "x": 48,
+        "y": 973,
+        "w": 1284,
+        "h": 254
+    },
+    {
+        "id": "37cf90a2ba861ad4",
+        "type": "group",
+        "z": "5358a61cd926ccce",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f5b8491791b61dd9"
+        ],
+        "x": 268,
+        "y": 1253,
+        "w": 1084,
+        "h": 254
+    },
+    {
+        "id": "18fd7b5f87641cf1",
+        "type": "group",
+        "z": "5358a61cd926ccce",
+        "g": "79f451d9a881c4cf",
+        "name": "",
+        "style": {
+            "label": true,
+            "fill": "#ff0000",
+            "fill-opacity": "0.22"
+        },
+        "nodes": [
+            "d944ca12607376d3",
+            "1f267cc32107696d",
+            "84c47354b2cc3743",
+            "c1c0c18f277cadd8",
+            "6c4b80341b2314f8",
+            "9cf4163b52c6fed3",
+            "0fd76ec57a4d4d52"
+        ],
+        "x": 74,
+        "y": 99,
+        "w": 1112,
+        "h": 202
+    },
+    {
+        "id": "1d519bb37d0b2076",
+        "type": "group",
+        "z": "5358a61cd926ccce",
+        "g": "d0abb2e8039c74a0",
+        "name": "",
+        "style": {
+            "label": true,
+            "fill": "#ff0000",
+            "fill-opacity": "0.22"
+        },
+        "nodes": [
+            "c5bbfcce3455094d",
+            "a98aa627c4f3d8a8",
+            "62b2d1f2148cc5b7",
+            "c88320f379fcabe7",
+            "a34c0ee01302bfae",
+            "de4928ab01054e73",
+            "ef26f40dbbd55d7b"
+        ],
+        "x": 74,
+        "y": 359,
+        "w": 1112,
+        "h": 202
+    },
+    {
+        "id": "3bf9a5573ce36be9",
+        "type": "group",
+        "z": "5358a61cd926ccce",
+        "g": "25e36cc64c4b6c7c",
+        "name": "",
+        "style": {
+            "label": true,
+            "fill": "#ff0000",
+            "fill-opacity": "0.22"
+        },
+        "nodes": [
+            "7d7ccf6e175cef34",
+            "6abd25175c32acb6",
+            "b8b3687d42759461",
+            "c1d4b819ecc86f1b",
+            "a332e2e01c23850f",
+            "1d5e6b3f64af853e",
+            "dd2b016d5c69e787",
+            "56ae0177f77d4732"
+        ],
+        "x": 294,
+        "y": 719,
+        "w": 1012,
+        "h": 202
+    },
+    {
+        "id": "be392191e17f74fb",
+        "type": "group",
+        "z": "5358a61cd926ccce",
+        "g": "e0aa44a5b699dc4b",
+        "name": "",
+        "style": {
+            "label": true,
+            "fill": "#ff0000",
+            "fill-opacity": "0.22"
+        },
+        "nodes": [
+            "9782e9721f855b9e",
+            "034a909e55306a77",
+            "b7f6df1c9dd5fc80",
+            "c63882612b6349f3",
+            "8e6dcd025a85e0f6",
+            "e53f25603732285a",
+            "326219c367f0c5bb",
+            "9da6f29434564c28",
+            "75062e55862aeb94"
+        ],
+        "x": 74,
+        "y": 999,
+        "w": 1232,
+        "h": 202
+    },
+    {
+        "id": "f5b8491791b61dd9",
+        "type": "group",
+        "z": "5358a61cd926ccce",
+        "g": "37cf90a2ba861ad4",
+        "name": "",
+        "style": {
+            "label": true,
+            "fill": "#ff0000",
+            "fill-opacity": "0.22"
+        },
+        "nodes": [
+            "f45faa6592f12fdf",
+            "24b992306af4a202",
+            "384274dab399e414",
+            "a15521b6560cad31",
+            "8ae44761e02a8cb9",
+            "60b974f9d9618da5",
+            "5469e1b83a42ff72",
+            "73f7c8fea6c05a4c"
+        ],
+        "x": 294,
+        "y": 1279,
+        "w": 1032,
+        "h": 202
+    },
+    {
+        "id": "d944ca12607376d3",
+        "type": "inject",
+        "z": "5358a61cd926ccce",
+        "d": true,
+        "g": "18fd7b5f87641cf1",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "600",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 190,
+        "y": 200,
+        "wires": [
+            [
+                "1f267cc32107696d"
+            ]
+        ]
+    },
+    {
+        "id": "1f267cc32107696d",
+        "type": "http request",
+        "z": "5358a61cd926ccce",
+        "g": "18fd7b5f87641cf1",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://api.openweathermap.org/data/2.5/weather?q=Xeresa&appid=c630c5956448842f5551f2009a182fb9&units=metric",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 390,
+        "y": 200,
+        "wires": [
+            [
+                "84c47354b2cc3743"
+            ]
+        ]
+    },
+    {
+        "id": "84c47354b2cc3743",
+        "type": "json",
+        "z": "5358a61cd926ccce",
+        "g": "18fd7b5f87641cf1",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 570,
+        "y": 200,
+        "wires": [
+            [
+                "c1c0c18f277cadd8"
+            ]
+        ]
+    },
+    {
+        "id": "c1c0c18f277cadd8",
+        "type": "function",
+        "z": "5358a61cd926ccce",
+        "g": "18fd7b5f87641cf1",
+        "name": "function 1",
+        "func": "let data = msg.payload;\nmsg.payload = {\n    city: data.name,\n    temperature: data.main.temp,\n    humidity: data.main.humidity,\n    weather: data.weather[0].description,\n    timestamp: new Date().toISOString()\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 200,
+        "wires": [
+            [
+                "6c4b80341b2314f8",
+                "0fd76ec57a4d4d52"
+            ]
+        ]
+    },
+    {
+        "id": "6c4b80341b2314f8",
+        "type": "mongodb out",
+        "z": "5358a61cd926ccce",
+        "g": "18fd7b5f87641cf1",
+        "mongodb": "00629259cdd1205f",
+        "name": "",
+        "collection": "tiempoXeresa",
+        "payonly": false,
+        "upsert": false,
+        "multi": false,
+        "operation": "insert",
+        "x": 980,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "9cf4163b52c6fed3",
+        "type": "debug",
+        "z": "5358a61cd926ccce",
+        "g": "18fd7b5f87641cf1",
+        "name": "debug 1",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "0fd76ec57a4d4d52",
+        "type": "http request",
+        "z": "5358a61cd926ccce",
+        "g": "18fd7b5f87641cf1",
+        "name": "",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://elasticsearch:9200/xeresa/_doc/",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 890,
+        "y": 260,
+        "wires": [
+            [
+                "9cf4163b52c6fed3"
+            ]
+        ]
+    },
+    {
+        "id": "c5bbfcce3455094d",
+        "type": "inject",
+        "z": "5358a61cd926ccce",
+        "d": true,
+        "g": "1d519bb37d0b2076",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "600",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 190,
+        "y": 460,
+        "wires": [
+            [
+                "a98aa627c4f3d8a8"
+            ]
+        ]
+    },
+    {
+        "id": "a98aa627c4f3d8a8",
+        "type": "http request",
+        "z": "5358a61cd926ccce",
+        "g": "1d519bb37d0b2076",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://api.openweathermap.org/data/2.5/weather?q=Argentina&appid=c630c5956448842f5551f2009a182fb9&units=metric",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 390,
+        "y": 460,
+        "wires": [
+            [
+                "62b2d1f2148cc5b7"
+            ]
+        ]
+    },
+    {
+        "id": "62b2d1f2148cc5b7",
+        "type": "json",
+        "z": "5358a61cd926ccce",
+        "g": "1d519bb37d0b2076",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 570,
+        "y": 460,
+        "wires": [
+            [
+                "c88320f379fcabe7"
+            ]
+        ]
+    },
+    {
+        "id": "c88320f379fcabe7",
+        "type": "function",
+        "z": "5358a61cd926ccce",
+        "g": "1d519bb37d0b2076",
+        "name": "function 2",
+        "func": "let data = msg.payload;\nmsg.payload = {\n    city: data.name,\n    temperature: data.main.temp,\n    humidity: data.main.humidity,\n    weather: data.weather[0].description,\n    timestamp: new Date().toISOString()\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 460,
+        "wires": [
+            [
+                "a34c0ee01302bfae",
+                "ef26f40dbbd55d7b"
+            ]
+        ]
+    },
+    {
+        "id": "a34c0ee01302bfae",
+        "type": "mongodb out",
+        "z": "5358a61cd926ccce",
+        "g": "1d519bb37d0b2076",
+        "mongodb": "00629259cdd1205f",
+        "name": "",
+        "collection": "tiempoArgentina",
+        "payonly": false,
+        "upsert": false,
+        "multi": false,
+        "operation": "insert",
+        "x": 990,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "de4928ab01054e73",
+        "type": "debug",
+        "z": "5358a61cd926ccce",
+        "g": "1d519bb37d0b2076",
+        "name": "debug 2",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "ef26f40dbbd55d7b",
+        "type": "http request",
+        "z": "5358a61cd926ccce",
+        "g": "1d519bb37d0b2076",
+        "name": "",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://elasticsearch:9200/argentina/_doc/",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 890,
+        "y": 520,
+        "wires": [
+            [
+                "de4928ab01054e73"
+            ]
+        ]
+    },
+    {
+        "id": "7d7ccf6e175cef34",
+        "type": "http request",
+        "z": "5358a61cd926ccce",
+        "g": "3bf9a5573ce36be9",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://api.openweathermap.org/data/2.5/weather?q=Madrid&appid=c630c5956448842f5551f2009a182fb9&units=metric",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 390,
+        "y": 820,
+        "wires": [
+            [
+                "6abd25175c32acb6"
+            ]
+        ]
+    },
+    {
+        "id": "6abd25175c32acb6",
+        "type": "json",
+        "z": "5358a61cd926ccce",
+        "g": "3bf9a5573ce36be9",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 570,
+        "y": 820,
+        "wires": [
+            [
+                "b8b3687d42759461"
+            ]
+        ]
+    },
+    {
+        "id": "b8b3687d42759461",
+        "type": "function",
+        "z": "5358a61cd926ccce",
+        "g": "3bf9a5573ce36be9",
+        "name": "function 3",
+        "func": "let datos = msg.payload;\n\nmsg.payload = {\n    timestamp: new Date().toISOString(),\n    ciudad: datos.name,\n    pais: datos.sys.country,\n    coordenadas: datos.coord,\n    clima: datos.weather[0],\n    temperatura: {\n        actual: datos.main.temp,\n        sensacion: datos.main.feels_like,\n        min: datos.main.temp_min,\n        max: datos.main.temp_max\n    },\n    presion: datos.main.pressure,\n    humedad: datos.main.humidity,\n    nivelMar: datos.main.sea_level,\n    nivelTierra: datos.main.grnd_level,\n    visibilidad: datos.visibility,\n    viento: datos.wind,\n    lluvia: datos.rain ? datos.rain[\"1h\"] : 0,\n    nubes: datos.clouds.all,\n    amanecer: datos.sys.sunrise,\n    atardecer: datos.sys.sunset,\n    zonaHoraria: datos.timezone,\n    \n    \n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 820,
+        "wires": [
+            [
+                "c1d4b819ecc86f1b",
+                "1d5e6b3f64af853e",
+                "dd2b016d5c69e787"
+            ]
+        ]
+    },
+    {
+        "id": "c1d4b819ecc86f1b",
+        "type": "mongodb out",
+        "z": "5358a61cd926ccce",
+        "g": "3bf9a5573ce36be9",
+        "mongodb": "00629259cdd1205f",
+        "name": "",
+        "collection": "datosMadrid",
+        "payonly": false,
+        "upsert": false,
+        "multi": false,
+        "operation": "insert",
+        "x": 980,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "a332e2e01c23850f",
+        "type": "debug",
+        "z": "5358a61cd926ccce",
+        "g": "3bf9a5573ce36be9",
+        "name": "debug 3",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "1d5e6b3f64af853e",
+        "type": "http request",
+        "z": "5358a61cd926ccce",
+        "g": "3bf9a5573ce36be9",
+        "name": "",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://elasticsearch:9200/madrid/_doc/",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 890,
+        "y": 880,
+        "wires": [
+            [
+                "a332e2e01c23850f"
+            ]
+        ]
+    },
+    {
+        "id": "9782e9721f855b9e",
+        "type": "inject",
+        "z": "5358a61cd926ccce",
+        "g": "be392191e17f74fb",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "300",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 190,
+        "y": 1100,
+        "wires": [
+            [
+                "034a909e55306a77",
+                "f45faa6592f12fdf",
+                "7d7ccf6e175cef34"
+            ]
+        ]
+    },
+    {
+        "id": "034a909e55306a77",
+        "type": "http request",
+        "z": "5358a61cd926ccce",
+        "g": "be392191e17f74fb",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://api.openweathermap.org/data/2.5/weather?q=Valencia&appid=c630c5956448842f5551f2009a182fb9&units=metric",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 390,
+        "y": 1100,
+        "wires": [
+            [
+                "b7f6df1c9dd5fc80"
+            ]
+        ]
+    },
+    {
+        "id": "b7f6df1c9dd5fc80",
+        "type": "json",
+        "z": "5358a61cd926ccce",
+        "g": "be392191e17f74fb",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 570,
+        "y": 1100,
+        "wires": [
+            [
+                "c63882612b6349f3"
+            ]
+        ]
+    },
+    {
+        "id": "c63882612b6349f3",
+        "type": "function",
+        "z": "5358a61cd926ccce",
+        "g": "be392191e17f74fb",
+        "name": "function 4",
+        "func": "let datos = msg.payload;\n\nmsg.payload = {\n    timestamp: new Date().toISOString(),\n    ciudad: datos.name,\n    pais: datos.sys.country,\n    coordenadas: datos.coord,\n    clima: datos.weather[0],\n    temperatura: {\n        actual: datos.main.temp,\n        sensacion: datos.main.feels_like,\n        min: datos.main.temp_min,\n        max: datos.main.temp_max\n    },\n    presion: datos.main.pressure,\n    humedad: datos.main.humidity,\n    nivelMar: datos.main.sea_level,\n    nivelTierra: datos.main.grnd_level,\n    visibilidad: datos.visibility,\n    viento: datos.wind,\n    lluvia: datos.rain ? datos.rain[\"1h\"] : 0,\n    nubes: datos.clouds.all,\n    amanecer: datos.sys.sunrise,\n    atardecer: datos.sys.sunset,\n    zonaHoraria: datos.timezone,\n    \n    \n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 1100,
+        "wires": [
+            [
+                "8e6dcd025a85e0f6",
+                "326219c367f0c5bb",
+                "9da6f29434564c28"
+            ]
+        ]
+    },
+    {
+        "id": "8e6dcd025a85e0f6",
+        "type": "mongodb out",
+        "z": "5358a61cd926ccce",
+        "g": "be392191e17f74fb",
+        "mongodb": "00629259cdd1205f",
+        "name": "",
+        "collection": "datosValencia",
+        "payonly": false,
+        "upsert": false,
+        "multi": false,
+        "operation": "insert",
+        "x": 980,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "e53f25603732285a",
+        "type": "debug",
+        "z": "5358a61cd926ccce",
+        "g": "be392191e17f74fb",
+        "name": "debug 4",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "326219c367f0c5bb",
+        "type": "http request",
+        "z": "5358a61cd926ccce",
+        "g": "be392191e17f74fb",
+        "name": "",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://elasticsearch:9200/valencia/_doc/",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 890,
+        "y": 1160,
+        "wires": [
+            [
+                "e53f25603732285a"
+            ]
+        ]
+    },
+    {
+        "id": "f45faa6592f12fdf",
+        "type": "http request",
+        "z": "5358a61cd926ccce",
+        "g": "f5b8491791b61dd9",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://api.openweathermap.org/data/2.5/weather?q=Barcelona&appid=c630c5956448842f5551f2009a182fb9&units=metric",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 390,
+        "y": 1380,
+        "wires": [
+            [
+                "24b992306af4a202"
+            ]
+        ]
+    },
+    {
+        "id": "24b992306af4a202",
+        "type": "json",
+        "z": "5358a61cd926ccce",
+        "g": "f5b8491791b61dd9",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 570,
+        "y": 1380,
+        "wires": [
+            [
+                "384274dab399e414"
+            ]
+        ]
+    },
+    {
+        "id": "384274dab399e414",
+        "type": "function",
+        "z": "5358a61cd926ccce",
+        "g": "f5b8491791b61dd9",
+        "name": "get Info",
+        "func": "let datos = msg.payload;\n\nmsg.payload = {\n    timestamp: new Date().toISOString(),\n    ciudad: datos.name,\n    pais: datos.sys.country,\n    coordenadas: datos.coord,\n    clima: datos.weather[0],\n    temperatura: {\n        actual: datos.main.temp,\n        sensacion: datos.main.feels_like,\n        min: datos.main.temp_min,\n        max: datos.main.temp_max\n    },\n    presion: datos.main.pressure,\n    humedad: datos.main.humidity,\n    nivelMar: datos.main.sea_level,\n    nivelTierra: datos.main.grnd_level,\n    visibilidad: datos.visibility,\n    viento: datos.wind,\n    lluvia: datos.rain ? datos.rain[\"1h\"] : 0,\n    nubes: datos.clouds.all,\n    amanecer: datos.sys.sunrise,\n    atardecer: datos.sys.sunset,\n    zonaHoraria: datos.timezone,\n    \n    \n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 1380,
+        "wires": [
+            [
+                "a15521b6560cad31",
+                "60b974f9d9618da5",
+                "73f7c8fea6c05a4c"
+            ]
+        ]
+    },
+    {
+        "id": "a15521b6560cad31",
+        "type": "mongodb out",
+        "z": "5358a61cd926ccce",
+        "g": "f5b8491791b61dd9",
+        "mongodb": "00629259cdd1205f",
+        "name": "",
+        "collection": "datosBarcelona",
+        "payonly": false,
+        "upsert": false,
+        "multi": false,
+        "operation": "insert",
+        "x": 990,
+        "y": 1320,
+        "wires": []
+    },
+    {
+        "id": "8ae44761e02a8cb9",
+        "type": "debug",
+        "z": "5358a61cd926ccce",
+        "g": "f5b8491791b61dd9",
+        "name": "debug 5",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1180,
+        "y": 1440,
+        "wires": []
+    },
+    {
+        "id": "60b974f9d9618da5",
+        "type": "http request",
+        "z": "5358a61cd926ccce",
+        "g": "f5b8491791b61dd9",
+        "name": "elasticBarcelonaTodo",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://elasticsearch:9200/barcelona/_doc/",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 920,
+        "y": 1440,
+        "wires": [
+            [
+                "8ae44761e02a8cb9"
+            ]
+        ]
+    },
+    {
+        "id": "c792ad1e7639ae72",
+        "type": "debug",
+        "z": "5358a61cd926ccce",
+        "name": "debug 6",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 660,
+        "y": 1700,
+        "wires": []
+    },
+    {
+        "id": "5469e1b83a42ff72",
+        "type": "kafka-producer",
+        "z": "5358a61cd926ccce",
+        "g": "f5b8491791b61dd9",
+        "name": "Kafka alertaBarcelona",
+        "broker": "10d300e644f61ba7",
+        "topic": "alertaBarcelona",
+        "requireAcks": 1,
+        "ackTimeoutMs": "1000",
+        "attributes": 0,
+        "x": 1200,
+        "y": 1380,
+        "wires": []
+    },
+    {
+        "id": "4a1387a61e0dd58b",
+        "type": "kafka-consumer",
+        "z": "5358a61cd926ccce",
+        "name": "Recibir de Kafka Barcelona",
+        "broker": "10d300e644f61ba7",
+        "outOfRangeOffset": "earliest",
+        "fromOffset": "latest",
+        "topic": "alertaBarcelona",
+        "groupid": "",
+        "x": 410,
+        "y": 1680,
+        "wires": [
+            [
+                "c792ad1e7639ae72",
+                "72369b8c5c1452c7"
+            ]
+        ]
+    },
+    {
+        "id": "73f7c8fea6c05a4c",
+        "type": "function",
+        "z": "5358a61cd926ccce",
+        "g": "f5b8491791b61dd9",
+        "name": "alerta 23 Grados",
+        "func": "let clima = msg.payload; \n\nconst umbral = 23;\n\nif (clima.temperatura.actual > umbral) {\n    msg.payload = JSON.stringify({\n        alerta: `⚠️ Alerta de calor en ${clima.ciudad}: ${clima.temperatura.actual}°C`,\n        ciudad: clima.ciudad,\n        pais: clima.pais,\n        temperatura: clima.temperatura.actual,\n        timestamp: clima.timestamp\n    });\n    return msg;\n} else {\n    return null;  // No enviar nada si no hay alerta\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 970,
+        "y": 1380,
+        "wires": [
+            [
+                "5469e1b83a42ff72"
+            ]
+        ]
+    },
+    {
+        "id": "9da6f29434564c28",
+        "type": "function",
+        "z": "5358a61cd926ccce",
+        "g": "be392191e17f74fb",
+        "name": "alerta 18 Grados",
+        "func": "let clima = msg.payload; \n\nconst umbral = 18;\n\nif (clima.temperatura.actual > umbral) {\n    msg.payload = JSON.stringify({\n        alerta: `⚠️ Alerta de calor en ${clima.ciudad}: ${clima.temperatura.actual}°C`,\n        ciudad: clima.ciudad,\n        pais: clima.pais,\n        temperatura: clima.temperatura.actual,\n        timestamp: clima.timestamp\n    });\n    return msg;\n} else {\n    return null;  // No enviar nada si no hay alerta\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 930,
+        "y": 1100,
+        "wires": [
+            [
+                "75062e55862aeb94"
+            ]
+        ]
+    },
+    {
+        "id": "75062e55862aeb94",
+        "type": "kafka-producer",
+        "z": "5358a61cd926ccce",
+        "g": "be392191e17f74fb",
+        "name": "Kafka alertaValencia",
+        "broker": "10d300e644f61ba7",
+        "topic": "alertaValencia",
+        "requireAcks": 1,
+        "ackTimeoutMs": "1000",
+        "attributes": 0,
+        "x": 1180,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "dd2b016d5c69e787",
+        "type": "function",
+        "z": "5358a61cd926ccce",
+        "g": "3bf9a5573ce36be9",
+        "name": "alerta 18 Grados",
+        "func": "let clima = msg.payload; \n\nconst umbral = 18;\n\nif (clima.temperatura.actual > umbral) {\n    msg.payload = JSON.stringify({\n        alerta: `⚠️ Alerta de calor en ${clima.ciudad}: ${clima.temperatura.actual}°C`,\n        ciudad: clima.ciudad,\n        pais: clima.pais,\n        temperatura: clima.temperatura.actual,\n        timestamp: clima.timestamp\n    });\n    return msg;\n} else {\n    return null;  // No enviar nada si no hay alerta\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 930,
+        "y": 820,
+        "wires": [
+            [
+                "56ae0177f77d4732"
+            ]
+        ]
+    },
+    {
+        "id": "56ae0177f77d4732",
+        "type": "kafka-producer",
+        "z": "5358a61cd926ccce",
+        "g": "3bf9a5573ce36be9",
+        "name": "Kafka alertaMadrid",
+        "broker": "10d300e644f61ba7",
+        "topic": "alertaMadrid",
+        "requireAcks": 1,
+        "ackTimeoutMs": "1000",
+        "attributes": 0,
+        "x": 1190,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "6d9d0119b1c41576",
+        "type": "debug",
+        "z": "5358a61cd926ccce",
+        "name": "debug 7",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 660,
+        "y": 1760,
+        "wires": []
+    },
+    {
+        "id": "e955375e39a31284",
+        "type": "kafka-consumer",
+        "z": "5358a61cd926ccce",
+        "name": "Recibir de Kafka Valencia",
+        "broker": "10d300e644f61ba7",
+        "outOfRangeOffset": "earliest",
+        "fromOffset": "latest",
+        "topic": "alertaValencia",
+        "groupid": "",
+        "x": 410,
+        "y": 1760,
+        "wires": [
+            [
+                "6d9d0119b1c41576",
+                "3457cd1278d5140b"
+            ]
+        ]
+    },
+    {
+        "id": "d405a8a67b0cd438",
+        "type": "debug",
+        "z": "5358a61cd926ccce",
+        "name": "debug 8",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 660,
+        "y": 1560,
+        "wires": []
+    },
+    {
+        "id": "f4590aaf024caa3c",
+        "type": "kafka-consumer",
+        "z": "5358a61cd926ccce",
+        "name": "Recibir de Kafka Madrid",
+        "broker": "10d300e644f61ba7",
+        "outOfRangeOffset": "earliest",
+        "fromOffset": "latest",
+        "topic": "alertaMadrid",
+        "groupid": "",
+        "x": 420,
+        "y": 1580,
+        "wires": [
+            [
+                "d405a8a67b0cd438",
+                "4a28035ccfc117d1"
+            ]
+        ]
+    },
+    {
+        "id": "4c2063b02ddd91a2",
+        "type": "http request",
+        "z": "5358a61cd926ccce",
+        "name": "enviar a indice barcelonaalertas",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://elasticsearch:9200/barcelonaalertas/_doc",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 910,
+        "y": 1660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "72369b8c5c1452c7",
+        "type": "function",
+        "z": "5358a61cd926ccce",
+        "name": "function 5",
+        "func": "// Parseamos el string JSON de Kafka\nlet alerta = JSON.parse(msg.payload.value);\n\n// Preparamos la petición POST para Elasticsearch\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n};\n\n\n\nmsg.payload = alerta;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 1660,
+        "wires": [
+            [
+                "4c2063b02ddd91a2"
+            ]
+        ]
+    },
+    {
+        "id": "4a28035ccfc117d1",
+        "type": "function",
+        "z": "5358a61cd926ccce",
+        "name": "function 6",
+        "func": "// Parseamos el string JSON de Kafka\nlet alerta = JSON.parse(msg.payload.value);\n\n// Preparamos la petición POST para Elasticsearch\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n};\n\n\n\nmsg.payload = alerta;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 1600,
+        "wires": [
+            [
+                "4e223ee142131a8d"
+            ]
+        ]
+    },
+    {
+        "id": "4e223ee142131a8d",
+        "type": "http request",
+        "z": "5358a61cd926ccce",
+        "name": "enviar a indice madridalertas",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://elasticsearch:9200/madridalertas/_doc",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 900,
+        "y": 1600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3457cd1278d5140b",
+        "type": "function",
+        "z": "5358a61cd926ccce",
+        "name": "function 7",
+        "func": "// Parseamos el string JSON de Kafka\nlet alerta = JSON.parse(msg.payload.value);\n\n// Preparamos la petición POST para Elasticsearch\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n};\n\n\n\nmsg.payload = alerta;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 1800,
+        "wires": [
+            [
+                "fd8511321e6d66f8"
+            ]
+        ]
+    },
+    {
+        "id": "fd8511321e6d66f8",
+        "type": "http request",
+        "z": "5358a61cd926ccce",
+        "name": "enviar a indice valenciaalertas",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://elasticsearch:9200/valenciaalertas/_doc",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 910,
+        "y": 1800,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "00629259cdd1205f",
+        "type": "mongodb",
+        "hostname": "mongo:27017",
+        "topology": "direct",
+        "connectOptions": "",
+        "port": "27017",
+        "db": "weatherdb",
+        "name": ""
+    },
+    {
+        "id": "10d300e644f61ba7",
+        "type": "kafka-broker",
+        "name": "Kafka Broker",
+        "hosts": "kafka:9092",
+        "selfsign": false,
+        "usetls": false,
+        "cacert": "",
+        "clientcert": "",
+        "privatekey": "",
+        "passphrase": ""
+    }
+]
